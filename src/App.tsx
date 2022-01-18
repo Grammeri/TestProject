@@ -23,6 +23,8 @@ function App() {
           <li>1</li>
           <li>2</li>
         </ul>
+        <br/>
+        <h1>New Line</h1>
       </header>
     </div>
   );
