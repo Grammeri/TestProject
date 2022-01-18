@@ -19,6 +19,10 @@ function App() {
           Learn React
           Learn Redux
         </a>
+        <ul>
+          <li>1</li>
+          <li>2</li>
+        </ul>
       </header>
     </div>
   );
