@@ -17,7 +17,6 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-          Learn Redux
         </a>
         <ul>
           <li>1</li>
