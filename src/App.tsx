@@ -26,6 +26,7 @@ function App() {
         <br/>
         <h1>New Line</h1>
         <h2>New Line2</h2>
+        <h2>New Line3</h2>
       </header>
     </div>
   );
